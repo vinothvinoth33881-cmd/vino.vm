@@ -1,0 +1,6 @@
+# ML Environment Requirements for Kidney AI Diagnosis
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+pillow>=9.5.0
+pydicom>=2.4.0
